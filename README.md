@@ -3,7 +3,6 @@
 Pada modul ini, kita akan belajar membuat aplikasi **Tasbih Digital** sederhana menggunakan Flutter.  
 Aplikasi ini berfungsi sebagai penghitung dzikir (tasbih), dengan fitur utama menambah hitungan, mereset hitungan, dan menyimpan data secara lokal.
 
----
 
 ## 📌 Tentang Proyek
 - **Nama Proyek**: tasbih_app  
@@ -19,7 +18,6 @@ Aplikasi ini berfungsi sebagai penghitung dzikir (tasbih), dengan fitur utama me
 - Mempelajari cara **update state secara real-time** pada widget  
 - Menyimpan data lokal menggunakan **SharedPreferences**  
 
----
 
 ## 🔲 Konsep Utama
 
