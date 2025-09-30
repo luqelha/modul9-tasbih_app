@@ -1,0 +1,12 @@
+# Jangan hitung file native
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+
+# Kalau pakai web support juga bisa exclude kalau ada banyak JS/HTML
+web/** linguist-vendored
+
+# Hanya fokus ke Dart
+*.dart linguist-detectable=true
